@@ -6,7 +6,7 @@ apt update
 apt install git -y
 ```
 ```
-git clone https://github.com/BdCoderSajid7777/Password_Generator
+git clone https://github.com/aven0x61/Password_Generator
 ```
 ```
 cd Password_Generator
